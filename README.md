@@ -58,7 +58,7 @@ Can optimize for one of four targets: Performance, Efficiency, Longevity (Temper
 
 ![Alt text](images/SteelNomad_Screenshot.png)
 
-<p align="center">
+<p align="left">
   <img src="images/SteelNomad_Results_Speedup_Power.png" width=45%>
   <img src="images/SteelNomad_Results_Efficiency_Power.png" width=45%>
   <img src="images/SteelNomad_Results_ClockRatio_Power.png" width=45%>
@@ -69,7 +69,7 @@ Can optimize for one of four targets: Performance, Efficiency, Longevity (Temper
 
 ![Alt text](images/Speedway_Screenshot.png)
 
-<p align="center">
+<p align="left">
   <img src="images/Speedway_Results_Speedup_Power.png" width=45%>
   <img src="images/Speedway_Results_Efficiency_Power.png" width=45%>
   <img src="images/Speedway_Results_ClockAvg_Power.png" width=45%>
