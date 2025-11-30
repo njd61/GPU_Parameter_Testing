@@ -8,7 +8,13 @@ The purpose of this was to test the two paramters and understand how they work i
 
 Can optimize for one of four targets: Performance, Efficiency, Longevity (Temperature), or Stability. We get unique combinations for each and find a sharp cutoff where stability tanks.
 
-Card - 9070 XT Hellhound
+### System
+* CPU - Ryzen 5 7600X
+* GPU - 9070 XT Hellhound
+* Mem - 32GB DDR5 @ 6000MHz w/ CAS 36
+* PSU - 750W
+* Driver 25.11.1
+
 
 ### Performance
 * Maximize undervolt and maximize power limit
