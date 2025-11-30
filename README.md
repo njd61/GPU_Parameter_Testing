@@ -11,7 +11,7 @@ Can optimize for one of four targets: Performance, Efficiency, Longevity (Temper
 ### System
 * CPU - Ryzen 5 7600X
 * GPU - 9070 XT Hellhound
-* Mem - 32GB DDR5 @ 6000MHz w/ CAS 36
+* Mem - 32GB DDR5 @ 4800MHz w/ CAS 36
 * PSU - 750W
 * Driver 25.11.1
 
